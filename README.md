@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I'm currently working on my master’s thesis, developing a game designed to encourage and promote physical activity.
 - 💻 I have developed various web applications using Vue.js with SpringBoot for the backend, as well as React.js paired with FastAPI.
-- 🤖 I have completed  ompleted several courses in machine learning and co-authored a bachelor’s thesis on a computer vision project.
+- 🤖 I have completedseveral courses in machine learning and co-authored a bachelor’s thesis on a computer vision project.
 - ⚙️ I have some experience with C++, Linux and working with Docker.
 - 🌱 I'm currently gaining hands-on experience with Unity and C# for my Master's project
 - 📫 How to reach me: haakon.kanter@gmail.com
